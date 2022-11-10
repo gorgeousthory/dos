@@ -7,3 +7,5 @@ masm/exe2bin.exe
 masm/LINK.EXE
 masm/MASM.EXE
 汇编编译教程.txt
+*.OBJ
+asm/TESTC.EXE
