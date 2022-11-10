@@ -9,3 +9,4 @@ masm/MASM.EXE
 汇编编译教程.txt
 *.OBJ
 asm/TESTC.EXE
+asm/TESTB.EXE
