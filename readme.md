@@ -40,7 +40,6 @@ TJUSSE22-23学年第01学期汇编语言课程作业文档
 
 ![多模块输出结果](/asm/Screenshots/多模块输出结果.png)
 
-
 ---
 
 ## 作业3：输入并输出年月日（过程调用练习）
@@ -88,3 +87,4 @@ row控制第一层循环，col控制第二层，output作为循环体输出结�
 
 作业1、作业2：dosbox MASM-v6.11
 作业3：dosbox-x MASM-v6.11
+作业4：dosbox MASM
