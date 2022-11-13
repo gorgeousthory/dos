@@ -85,6 +85,7 @@ row控制第一层循环，col控制第二层，output作为循环体输出结�
 
 ## 编译环境
 
-作业1、作业2：dosbox MASM-v6.11
-作业3：dosbox-x MASM-v6.11
-作业4：dosbox MASM
+- 作业1：dosbox MASM-v6.11
+- 作业2：dosbox MASM-v6.11
+- 作业3：dosbox-x MASM-v6.11
+- 作业4：dosbox MASM
