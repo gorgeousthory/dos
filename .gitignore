@@ -1,13 +1,7 @@
 
-asm/testA.asm
-asm/testB.asm
-asm/testC.asm
 masm/debug.exe
 masm/exe2bin.exe
 masm/LINK.EXE
 masm/MASM.EXE
 汇编编译教程.txt
 *.OBJ
-asm/TESTC.EXE
-asm/TESTB.EXE
-asm/test.asm
