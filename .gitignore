@@ -10,3 +10,4 @@ masm/MASM.EXE
 *.OBJ
 asm/TESTC.EXE
 asm/TESTB.EXE
+asm/test.asm
